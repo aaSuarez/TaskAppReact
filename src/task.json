@@ -1,0 +1,29 @@
+{
+    "tasks":[
+        {
+            "title": "Task 1"
+            ,"responsible": "Alejandro"
+            ,"description": "Read"
+            ,"priority":"low"
+        },
+        {
+            "title": "Task 2"
+            ,"responsible": "James"
+            ,"description": "Play"
+            ,"priority":"medium"
+        },
+        {
+            "title": "Task 3"
+            ,"responsible": "Donald"
+            ,"description": "dance"
+            ,"priority":"high"
+        },
+        {
+            "title":"Task 4"
+            ,"responsible":"Zeus"
+            ,"description":"listen"
+            ,"priority":"important"
+        }
+        
+    ]
+}
